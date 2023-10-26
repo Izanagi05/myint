@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="htmlku">
     <v-dialog v-model="dialogpauseku">
       <v-card class="pa-4 rounded-xl">
         <div class="d-flex justify-end mb-4">
@@ -67,7 +67,7 @@
         </div>
       </v-card>
     </v-dialog>
-    <div class="htmlku">
+    <div class="">
       <div class="d-flex justify-center align-center my-4">
         <div class="text-h5 grey--text text--darken-4 font-weight-medium">
           Giliran player:
