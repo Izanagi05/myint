@@ -1,8 +1,8 @@
 <template>
   <div>
-    <v-container class="pt-2" style="padding-bottom: 100px;" @click="$router.push('/')">
-    <button type="button" class="mulai pa-2 mt-4 mb-4">
-          <v-icon class="text-h4" color="#212121">mdi-arrow-left</v-icon>
+    <v-container class="pt-2" style="padding-bottom: 100px;">
+    <button type="button" class="mulai pa-2 mt-4 mb-4"  @click="$router.push('/')">
+          <v-icon class="text-h4" color="#212121" >mdi-arrow-left</v-icon>
         </button>
 
       <button class="kartuku pa-4 mt-2">
