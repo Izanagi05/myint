@@ -1,6 +1,6 @@
 <template>
   <div class="bgku">
-    <v-dialog v-model="dialogku" persistent max-widht="600px" >
+    <v-dialog v-model="dialogku" persistent >
       <v-card class="rounded-xl pa-4">
         <h1 class="my-4 text-center " style="color:#df6051;">{{ keterangan }}</h1>
 
