@@ -3,8 +3,8 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - suit-game',
-    title: 'suit-game',
+    titleTemplate: '%s - game suit gunting kertas batu',
+    title: 'game suit gunting kertas batu',
     htmlAttrs: {
       lang: 'en'
     },
